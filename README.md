@@ -29,6 +29,8 @@ In questo periodo sto sviluppando prodotti per attività reali e continuo a sper
 | [CAF FAPI · Frontend](https://github.com/acetomartina/FE-Capstone-CAF) | Interfaccia React e TypeScript per servizi, clienti, pratiche e documenti |
 | [CAF FAPI · Backend](https://github.com/acetomartina/BE-Capstone-CAF) | API Spring Boot, autenticazione, PostgreSQL e migrazioni Flyway |
 | [Gestione Eventi API](https://github.com/acetomartina/Back-Progetto6-GestioneEventi) | Ruoli, JWT, eventi e prenotazioni con Spring Security |
+| [Spaceflight News](https://github.com/acetomartina/spaceflight-news) | Notizie spaziali, ricerca e dettagli da un'API esterna |
+| [Music UI](https://github.com/acetomartina/apple-music) | Interfaccia musicale responsive e anteprime audio |
 
 Il capstone **CAF FAPI** è diviso in due repository collegati: frontend e backend. Nei rispettivi README trovi stack, funzionalità e istruzioni per l'avvio locale.
 
