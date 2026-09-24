@@ -6,8 +6,6 @@
 
 Progetto siti web, applicazioni e gestionali su misura, dall'interfaccia alle API.
 
-[LinkedIn](https://www.linkedin.com/in/acetomartina/) · [Dimora Romano](https://www.dimoraromanoimmobiliare.it/)
-
 </div>
 
 ---
